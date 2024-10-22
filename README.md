@@ -79,6 +79,7 @@ Use these files to complete the implementation:
  - You can use the below outline CSS property for buttons and input elements to remove the highlighting when the elements are clicked,
    -  outline: none;
 </details>
+
 ### Resources
 
 <details>
