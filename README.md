@@ -39,7 +39,6 @@ The app must have the following functionalities
 - Initially, the balance should be **2000** rupees.
 - When a denomination is clicked, then the respective value should be deducted from the balance available.
 - The **CashWithdrawal** component receives the **denominationsList** as a prop. It consists of a list of denomination objects with the following properties in each denomination object,
-   -   Key	Data Type
       - id : Number
       - value : Number 
 
