@@ -36,9 +36,9 @@ In this project, let's build a Cash Withdrawal app by applying the concepts we h
 
 The app must have the following functionalities
 
-- Initially, the balance should be **2000** rupees
-- When a denomination is clicked, then the respective value should be deducted from the balance available
-- The **CashWithdrawal** component receives the **denominationsList** as a prop. It consists of a list of denomination objects with the following properties in each denomination object
+- Initially, the balance should be **2000** rupees.
+- When a denomination is clicked, then the respective value should be deducted from the balance available.
+- The **CashWithdrawal** component receives the **denominationsList** as a prop. It consists of a list of denomination objects with the following properties in each denomination object,
    -   Key	Data Type
       - id : Number
       - value : Number 
@@ -69,14 +69,14 @@ Use these files to complete the implementation:
 </details>
 
 ### Quick Tips
- - The string method slice() extracts a section of a string and returns it as a new string, without modifying the original string
+ - The string method slice() extracts a section of a string and returns it as a new string, without modifying the original string,
    - 1.const text = "The quick brown fox";
    - 2.console.log(text.slice(0, 3)); // The
    - 3.console.log(text.slice(2, 3)); // e
- - You can use the cursor CSS property to specify the mouse cursor to be displayed when pointing over an element
+ - You can use the cursor CSS property to specify the mouse cursor to be displayed when pointing over an element,
    -  cursor: pointer;
- - You can use the below outline CSS property for buttons and input elements to remove the highlighting when the elements are clicked
-   -  outline: none
+ - You can use the below outline CSS property for buttons and input elements to remove the highlighting when the elements are clicked,
+   -  outline: none;
 ### Resources
 
 <details>
