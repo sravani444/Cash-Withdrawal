@@ -69,6 +69,7 @@ Use these files to complete the implementation:
 
 ### Quick Tips
 <details>
+  
 - The string method slice() extracts a section of a string and returns it as a new string, without modifying the original string
   - 1.const text = "The quick brown fox";
   - 2.console.log(text.slice(0, 3)); // The
@@ -77,6 +78,7 @@ Use these files to complete the implementation:
   -  cursor: pointer;
 - You can use the below outline CSS property for buttons and input elements to remove the highlighting when the elements are clicked
   -  outline: none;
+    
 </details>
 
 ### Resources
